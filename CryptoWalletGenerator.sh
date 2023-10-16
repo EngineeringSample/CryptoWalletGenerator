@@ -7,4 +7,4 @@ pip install eth-account bitcoinlib tronapi
 wget https://raw.githubusercontent.com/YuanLiuchang/CryptoWalletGenerator/main/CryptoWalletGenerator.py
 
 # Run the Python script
-python CryptoWalletGenerator.py
+python3 CryptoWalletGenerator.py
